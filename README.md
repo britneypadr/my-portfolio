@@ -48,8 +48,7 @@ To view the portfolio locally, open `index.html` in your web browser. You can al
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
+This project is licensed under the MIT License.
 ## Contact
 
 Feel free to reach out to me via email or phone:
